@@ -1,16 +1,15 @@
 encapcalc
 =========
 
-An HTML/JS encapsulation overhead calculator.
+An visual tunnel MTU/MSS calculator in pure client-side HTML/JS.
 
-Tunnel MTU/MSS calculation is a common task that also
-confuses beginners quite often, so let's make it
-automated and more visual.
+Tunnel MTU/MSS calculation is a common task.
+Calculating it is a common task, and many beginners find it confusing.
+This project tries to make it easy to do and understand what's going on.
 
-To deploy locally, just copy the index.html to
-appropriate location.
+To run it locally, just clone the repo and point your browser to the index.html file.
 
-See a live demo at http://baturin.org/tools/encapcalc/
+A live version is available at https://baturin.org/tools/encapcalc/
 
 ## Data sources
 
