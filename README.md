@@ -1,6 +1,8 @@
 encapcalc
 =========
 
+![maintenance-status](https://img.shields.io/badge/maintenance-passively--maintained-yellowgreen.svg)
+
 An visual tunnel MTU/MSS calculator in pure client-side HTML/JS.
 
 Tunnel MTU/MSS calculation is a common task.
